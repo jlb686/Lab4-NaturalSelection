@@ -1,0 +1,11 @@
+l4_metadata for l4_dataset.csv
+
+This file contains the metadata for the l4_dataset.csv file
+Biology 2900 winter 2023
+Youlian Tzenov
+
+parents_beakdepth: a small sample of the beak depths from medium ground finches born prior to 1976. This sample serves as the control population.
+
+entirepopn_beakdepth: the beak depths of all medium ground finches alive in 1976 on Daphne Major
+
+survivors: the finches that survived the 1977 drought (from the entire 1976 finch population). 0 = did not survive, 1 = survived
